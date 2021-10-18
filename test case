@@ -1,0 +1,39 @@
+
+<html>
+    <head>
+     <title>Merve Şimşek</title> 
+
+     <link rel="stylesheet" href="site.css" />
+ <style></style>
+    </head>
+
+    <body>
+        <h1>Bu bir başlıktır</h1>
+
+        <p>Merve</p>
+
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Iste eos illo hic ipsa doloribus repudiandae sint, 
+            autem accusantium rerum nam inventore sequi, ducimus debitis nobis sunt tempore, 
+            ratione illum quia. </p>
+
+        <a href="https://www.google.com.tr/ "> google</a> <br>
+
+        <b>Bu kalın bir yazıdır.</b>
+
+        <div style="height: 200px; font-weight: 200 ;" > sellllaaaaaammm </div>
+    
+    <div>
+        bu bir divdir ve displayi blocktur 
+     </div>
+        <p>bu bir paragraftır ve p'nin displayi blocktur.</p>
+
+        <ul>
+            <li id="meyve-3" class="meyve c">Greyfurt</li>
+            <li id="meyve-2" class="meyve c">Portakal</li>
+            <li class="meyve lifli">Ananas</li>
+
+        </ul>
+
+    </body>
+</html>
